@@ -1,0 +1,83 @@
+{
+  "navigation": [
+		{
+			"title": "About",
+			"url": "http://www.example.com/about"
+		},
+		{
+			"title": "Projects",
+			"url": "http://www.example.com/portfolio"
+		},
+		{
+			"title": "Contact",
+			"url": "http://www.example.com/contact"
+		}
+	],
+  "hero": {
+    "name": "Mohith",
+    "subtitle": "I'm the Fullstack Developer."
+  },
+  "about": {
+    "title": "About me",
+    "image": "/mohith.jpeg",
+    "primary": "I am Mohith B, a passionate and experienced Full Stack Developer proficient in a wide range of modern web technologies. With expertise in React, Next.js, Node.js, MongoDB, Vite, Supabase, Firebase, Chakra UI, Ant Design, HTML, CSS, JavaScript, Tailwind CSS, Git, and Docker, I have a comprehensive skill set that enables me to create efficient, scalable, and user-friendly web applications.",
+    "secondary": "My focus on frontend development allows me to craft dynamic and captivating user interfaces, ensuring seamless user experiences across various devices and browsers. Leveraging my proficiency in UI libraries like Chakra UI and Ant Design, I can deliver visually appealing and consistent designs efficiently. On the backend, I excel in Node.js and MongoDB, enabling me to build scalable server-side applications with real-time functionality. Collaborative and open to diverse perspectives, I value teamwork and effective communication to achieve project success. Committed to continuous learning, I stay up-to-date with the latest trends and technologies, ensuring my work aligns with industry best practices. I approach each project with enthusiasm and dedication, embracing challenges that push the boundaries of web development."
+  },
+  "projects": {
+    "title": "Projects",
+    "projects": [
+      {
+        "title": "Typeflo",
+        "description": "A NextJS SaaS application which let's user create their own blogging website with their own custom domain where blog posts can be created directly with their Google Docs document.",
+        "url": "https://typeflo.io",
+        "github": "https://github.com/mohithworks/Stensil_blog_nextjs",
+        "image": "/Typeflo.svg"
+      },
+      {
+				"title": "TwoSlash",
+				"description": "A browser extension which lets to use CHATGPT prompts anywhere in the web where text input is available.",
+				"url": "https://twoslash.ai/",
+        "github": "https://github.com/mohithworks/twoslash_extension_code",
+				"image": "/TwoSlash.svg"
+			},
+      {
+				"title": "DIY(Do It Yourself)",
+				"description": "A React-based waste management website where people can volunteer & solve the issues in their area by themselves by contributing money to their area wallet in the website.",
+				"url": "https://diy-protothon-client.vercel.app/",
+        "github": "https://github.com/mohithworks/DIY-Protothon-client",
+				"image": "/placeholder-700x350.png"
+			},
+      {
+				"title": "Vinayaka Project",
+				"description": "A React-based ecommerce website for a local business in my area.",
+				"url": "https://main--dainty-starburst-9b7f5f.netlify.app/",
+        "github": "https://github.com/vinayakaproject/vinayaka_project_frontend",
+				"image": "/placeholder-700x350.png"
+			},
+      {
+				"title": "Bug Tracking System",
+				"description": "A Java application to record, analyze, maintain & report the bugs in the server/system.",
+				"url": "",
+        "github": "",
+				"image": "/placeholder-700x350.png"
+			},
+      {
+				"title": "Email Automation",
+				"description": "A Python tool for automating sending of emails to multiple users all at a time.",
+				"url": "",
+        "github": "",
+				"image": "/placeholder-700x350.png"
+			}
+    ]
+  },
+  "contact": {
+    "title": "Contact",
+    "description": "This is where you can describe about your contact. The more you describe about your contact, the more chances you have!",
+    "formId": "mleydber"
+  },
+  "footer": {
+		"linkedin": "https://www.linkedin.com/in/mohith-works-439513271",
+		"twitter": "",
+		"github": "https://github.com/mohithworks"
+	}
+}
